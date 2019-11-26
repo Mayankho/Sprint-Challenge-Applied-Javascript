@@ -78,4 +78,6 @@ let tabs = document.querySelectorAll('.tab');
 
 tabs.forEach(tab => new TabLink(tab));
 
+//Tabs not switching
+
 
